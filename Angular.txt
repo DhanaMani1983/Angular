@@ -1,0 +1,27 @@
+############################################
+Angular JS
+############################################
+
+Angular JS is used for Single page application
+Loads faster than other apps 
+because its single page no page reloading is needed
+Single code/scripts for desktop and mobile
+
+Angular JS is component based from version 2, before version 1 is controller based
+
+App folder contains following files
+
+app.component.css - styling for the html
+
+app.component.html - tags for the page
+
+app.component.spec.ts - used for testing
+
+app.component.ts - type script with containers encapsulating html and css
+
+app.module.ts - parent module with necessary components 
+
+index.html - start page for the app
+
+
+
